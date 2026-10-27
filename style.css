@@ -1,0 +1,90 @@
+
+/* Estilo da página */
+body {
+    background-color: #eeeeee;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #222222;
+    padding: 15px;
+    text-align: center;
+    border: 2px solid #ff4655;
+}
+
+/* Título */
+h1 {
+    color: #ff4655;
+    text-align: center;
+}
+
+/* Subtítulo */
+.subtitulo {
+    color: white;
+    font-size: 18px;
+}
+
+/* Títulos das seções */
+h2, h3, h4 {
+    color: #ff4655;
+}
+
+/* Conteúdo */
+main {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid gray;
+}
+
+/* Classificação */
+.classificacao {
+    background-color: #eeeeee;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+}
+
+/* Listas */
+ul, ol {
+    padding: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Área do mini-game */
+#minigame {
+    background-color: #eeeeee;
+    padding: 10px;
+    border: 2px solid #ff4655;
+}
+
+/* Jogo */
+iframe {
+    max-width: 100%;
+}
+
+/* Links */
+a {
+    color: #ff4655;
+    text-decoration: none;
+}
+
+/* Quando passar o mouse no link */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Rodapé */
+footer {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    border-top: 2px solid #ff4655;
+}
